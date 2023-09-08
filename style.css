@@ -164,7 +164,7 @@ h1 {
   background-color: var(--Very-dark-blue);
   color: var(--Off-white);
   width: 100%;
-  padding: 3rem 2rem;
+  padding: 3rem 2rem 2.6rem;
   margin-bottom: 3.6rem;
 
   display: flex;
@@ -190,6 +190,7 @@ h3 {
 }
 .container-2-item:last-child {
   border: none;
+  margin-bottom: 0;
 }
 
 .container-2-item-title {
